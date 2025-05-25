@@ -1,9 +1,24 @@
-# BuyBusy
-It's an online shopping or e-commerce platform made using ReactJs  to ease your shopping experience by delivering goods at your door-step just in one tap. 
-# Installation
-<ul>
-<li>Open the code in your machine</li>
-<li>Run "npm install" in terminal to install all the dependencies</li>
-<li>Run "npm start" </li>
-<li>User can view the output by accessing "http://localhost:3000/"</li>
-</ul>
+📦 BuyBusy
+BuyBusy is a responsive and user-friendly e-commerce web application built with React.js and Firebase. It simplifies your online shopping experience by delivering goods to your doorstep with just a tap.
+
+✨ Features
+🔐 User Sign Up / Sign In functionality
+
+🛒 Add / Remove products to cart
+
+📜 View order history with date and time
+
+💾 Persistent user data storage with Firebase
+
+⚙️ React Context API for efficient state management
+
+🎨 Clean, responsive custom CSS styling
+
+🛠️ Tech Stack
+React.js
+
+Firebase Realtime Database
+
+React Context API
+
+CSS
